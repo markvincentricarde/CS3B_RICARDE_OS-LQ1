@@ -1,0 +1,35 @@
+Microsoft Windows [Version 10.0.19045.6216]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\pc>cd DOWNLOADS
+
+C:\Users\pc\Downloads>cd RICARDE_MV_OS_LQ1
+The system cannot find the path specified.
+
+C:\Users\pc\Downloads>md RICARDE_MV_OS_LQ1
+
+C:\Users\pc\Downloads>cd RICARDE_MV_OS_LQ1
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1>md src common installer cache user
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1>cd src
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1\src>md a\b\c\d\e\f\g
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1\src>cd..
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1>cd common
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1\common>md h\i\j\k\l\m
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1\common>cd..
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1>cd installer
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1\installer>md installer_folder
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1\installer>cd..
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1>cd cache
+
+C:\Users\pc\Downloads\RICARDE_MV_OS_LQ1\cache>md a b c d e f g h i j k l m n o p q r s t u v w x y z
